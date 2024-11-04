@@ -38,7 +38,7 @@ ItemPrices:
 	money 9800  ; IRON
 	money 9800  ; CARBOS
 	money 9800  ; CALCIUM
-	money 4800  ; RARE_CANDY
+	money 1     ; RARE_CANDY
 	money 4200  ; DOME_FOSSIL
 	money 4200  ; HELIX_FOSSIL
 	money 0     ; SECRET_KEY
